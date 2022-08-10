@@ -18,9 +18,9 @@
   Postman API • Swagger API • SoapUI • DBeaver • Git • GitLab.</strong>
   <br>
 📈 Data Science and Analytics: <strong>Excel • Power BI • Data Studio • Google Analytics • Google Sheets • Jupyter Notebook • Git • 
-  Watson Studio • IBM Cloud • AWS </strong>
+  Watson Studio • IBM Cloud • AWS. </strong>
   <br>
-💼 Project Managements: <strong>JIRA • Confluence • Trello</strong>
+💼 Project Managements: <strong>JIRA • Confluence • Trello.</strong>
 </p>
 
 <p align="left">
