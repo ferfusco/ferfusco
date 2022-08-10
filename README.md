@@ -11,19 +11,16 @@
 <p align="left">
   💻 Languages: <strong>HTML, CSS, JavaScript, SQL</strong>
 </p>
-
 <p align="left">
   🔨 Tools:
 <br>
- &nbsp&nbsp&nbsp🧪 Quality Assurance and Software Test: <strong>VSCode • Docker • Cypress • Selenium • Cucumber • BDD • TDD • 
+🧪 Quality Assurance and Software Test: <strong>VSCode • Docker • Cypress • Selenium • Cucumber • BDD • TDD • 
   Postman API • Swagger API • SoapUI • DBeaver • Git • GitLab.</strong>
   <br>
-  <br>
- &nbsp&nbsp&nbsp📈 Data Science and Analytics: <strong>Excel • Power BI • Data Studio • Google Analytics • Google Sheets • Jupyter Notebook • Git • 
+📈 Data Science and Analytics: <strong>Excel • Power BI • Data Studio • Google Analytics • Google Sheets • Jupyter Notebook • Git • 
   Watson Studio • IBM Cloud • AWS </strong>
   <br>
-  <br>
- &nbsp&nbsp&nbsp💼 Project Managements:<strong>JIRA • Confluence • Trello</strong>
+💼 Project Managements: <strong>JIRA • Confluence • Trello</strong>
 </p>
 
 <p align="left">
@@ -31,9 +28,9 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&href=mailto:fuscocastro@gmail.com" /></a>
+  <a href="mailto:fuscocastro@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=fuscocastro@gmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&href=www.linkedin.com/in/ferfusco/"/></a>
+  <a href="https://www.linkedin.com/in/ferfusco/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ferfusco/" /></a>
 </p>  
