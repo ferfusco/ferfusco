@@ -12,7 +12,7 @@
   💻 Languages: <strong>HTML, CSS, JavaScript, SQL</strong>
 </p>
 <p align="left">
-  🔨 Tools:
+  🔨 Tools
 <br>
 🧪 Quality Assurance and Software Test: <strong>VSCode • Docker • Cypress • Selenium • Cucumber • BDD • TDD • 
   Postman API • Swagger API • SoapUI • DBeaver • Git • GitLab.</strong>
