@@ -20,7 +20,7 @@
 📈 Data Science and Analytics: <strong>Excel • Power BI • Data Studio • Google Analytics • Google Sheets • Jupyter Notebook • Git • 
   Watson Studio • IBM Cloud • AWS. </strong>
   <br>
-💼 Project Managements: <strong>JIRA • Confluence • Trello.</strong>
+💼 Project Managements: <strong>JIRA • Confluence • Asana • SharePoint • Trello.</strong>
 </p>
 
 <p align="left">
